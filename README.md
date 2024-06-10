@@ -9,7 +9,7 @@ software engineering and cloud computing. When I’m not coding, you'll likely c
 
 <strong>Front end:</strong> <img src="https://img.shields.io/badge/Code-react-blue?logo=react">
 
-<strong>Back end:</strong> <img src="https://img.shields.io/badge/%E2%98%81%EF%B8%8FCloud-aws services-orange"> <img src="https://img.shields.io/badge/Code-.NET-orange?logo=.NET"> <img src="https://img.shields.io/badge/Code-node.js-green?logo=python">
+<strong>Back end:</strong> <img src="https://img.shields.io/badge/%E2%98%81%EF%B8%8FCloud-aws services-orange"> <img src="https://img.shields.io/badge/Code-.NET-orange?logo=.NET"> <img src="https://img.shields.io/badge/Code-python-green?logo=python">
 
 <strong>Infrastructure & DevOps:</strong> <img src="https://img.shields.io/badge/%E2%98%81%EF%B8%8FCloud-aws cdk-green"> <img src="https://img.shields.io/badge/Tools-docker-green?logo=docker"> <img src="https://img.shields.io/badge/Tools-localstack-green?logo=localstack" > 
 
