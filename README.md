@@ -1,7 +1,7 @@
 # <img src="https://github.com/AsifMeem/AsifMeem/blob/main/wave.gif" width="30"/> Greetings 
 
-I am a Melbourne-based Software Engineer and I like to write about statistics,
-software engineering and cloud computing. When I’m not coding, you'll likely catch me on a hiking trail 🥾⛰️
+I am a Melbourne-based Software Engineer and I enjoy sharing my knowledge on statistics,
+software engineering and cloud computing @[codewithnumbers.com](https://codewithnumbers.com). When I’m not coding, you'll likely catch me on a hiking trail 🥾⛰️
 
 # <img src="https://c.tenor.com/Pnb_hVWq2sgAAAAi/on-process-dig.gif" width="30"/> Tools under my belt
 
@@ -11,7 +11,7 @@ software engineering and cloud computing. When I’m not coding, you'll likely c
 
 <strong>Back end:</strong> <img src="https://img.shields.io/badge/%E2%98%81%EF%B8%8FCloud-aws services-orange"> <img src="https://img.shields.io/badge/Code-.NET-orange?logo=.NET"> <img src="https://img.shields.io/badge/Code-python-green?logo=python">
 
-<strong>Infrastructure & DevOps:</strong> <img src="https://img.shields.io/badge/%E2%98%81%EF%B8%8FCloud-aws cdk-green"> <img src="https://img.shields.io/badge/Tools-docker-green?logo=docker"> <img src="https://img.shields.io/badge/Tools-localstack-green?logo=localstack" > 
+<strong>Infrastructure & DevOps:</strong> <img src="https://img.shields.io/badge/%E2%98%81%EF%B8%8FCloud-aws cdk-green"> <img src="https://img.shields.io/badge/Tools-docker-green?logo=docker"> <img src="https://img.shields.io/badge/Tools-localstack-green?logo=Github Actions" > 
 
 # <img src="https://github.com/AsifMeem/AsifMeem/blob/main/typing.gif" width="50" /> Public Github Stats
 
