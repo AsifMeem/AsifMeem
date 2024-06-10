@@ -11,7 +11,7 @@ software engineering and cloud computing @[codewithnumbers.com](https://codewith
 
 <strong>Back end:</strong> <img src="https://img.shields.io/badge/%E2%98%81%EF%B8%8FCloud-aws services-orange"> <img src="https://img.shields.io/badge/Code-.NET-orange?logo=.NET"> <img src="https://img.shields.io/badge/Code-python-green?logo=python">
 
-<strong>Infrastructure & DevOps:</strong> <img src="https://img.shields.io/badge/%E2%98%81%EF%B8%8FCloud-aws cdk-green"> <img src="https://img.shields.io/badge/Tools-docker-green?logo=docker"> <img src="https://img.shields.io/badge/Tools-github-actions-green?logo=Github Actions" > 
+<strong>Infrastructure & DevOps:</strong> <img src="https://img.shields.io/badge/%E2%98%81%EF%B8%8FCloud-aws cdk-green"> <img src="https://img.shields.io/badge/Tools-docker-green?logo=docker"> <img src="https://img.shields.io/badge/Tools-GithubActions-green?logo=Github Actions" > 
 
 # <img src="https://github.com/AsifMeem/AsifMeem/blob/main/typing.gif" width="50" /> Public Github Stats
 
