@@ -1,9 +1,7 @@
 # <img src="https://github.com/AsifMeem/AsifMeem/blob/main/wave.gif" width="30"/> Greetings 
 
-I am a Melbourne-based Software Engineer and when I’m not coding, you'll catch me either:
-- On a hiking trail ⛰
-- Reading books on software engineering, machine learning and investing 📚
-- Blogging ✍🏼
+I am a Melbourne-based Software Engineer and I like to write about statistics,
+software engineering and cloud computing. When I’m not coding, you'll likely catch me on a hiking trail 🥾⛰️
 
 # <img src="https://c.tenor.com/Pnb_hVWq2sgAAAAi/on-process-dig.gif" width="30"/> Tools under my belt
 
